@@ -277,10 +277,11 @@ footer {
   margin-bottom: 40px;
   color: #eee;
   font-style: italic;
+  text-align: center;
 }
 
 .copyright p.credit {
-  text-align: right;
+  text-align: center;
 }
 
 .copyright p.credit a {
